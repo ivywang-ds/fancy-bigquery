@@ -2,8 +2,6 @@
 
 * [SQL In  BigQuery](README.md)
   * [SELECT](sql-in-bigquery/select.md)
-  * [FROM](sql-in-bigquery/from.md)
-  * [WHERE](sql-in-bigquery/where.md)
   * [JOIN](sql-in-bigquery/join.md)
   * [GROUP](sql-in-bigquery/group.md)
   * [HAVING](sql-in-bigquery/having.md)
